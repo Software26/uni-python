@@ -1,4 +1,5 @@
 num = 10
+num1 = 10.5
 letras = "Hola"
 booleanaos1 = True
 booleanaos2 = False
@@ -13,6 +14,8 @@ print("\n")
 #tipos con type()
 print(num)
 print(type(num))
+print(num1)
+print(type(num1))
 print(letras)
 print(type(letras))
 print(booleanaos1)
