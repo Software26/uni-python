@@ -1,7 +1,7 @@
 edad = int(input("Digite su edad: "))
 mesactual = int(input("Digite el numero del mes actual: "))
 
-if (edad >=17 or ):
+if (edad >=17):
     print(f" Tu edad es {edad} y tienes {mesactual}Puedes pasar ya casi erers mayor de edad")
 
 else:
