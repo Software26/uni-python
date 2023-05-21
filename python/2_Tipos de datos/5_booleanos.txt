@@ -1,0 +1,12 @@
+Booleanos
+
+los booleanos son valores que decimos que son 2 True y False = verdero / falso
+en los booleanos podemos entede que nada mas exixten esos dos valores si es verdadreo es True y 
+si es False es falso.
+
+podemos combinarlos con if,elif y else son condiciones que retona o habren su pueta si es verdadero o falso
+si es True entoces Reproduca lo que hay dentro del if
+
+else: de los contrario
+    Repoduce todo lo que esta en else, seria la conmdicion si no se cumple el if
+
