@@ -1,0 +1,1 @@
+condicion = True
