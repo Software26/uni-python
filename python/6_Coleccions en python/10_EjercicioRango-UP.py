@@ -54,6 +54,6 @@ while contador <= 10:
     print(contador)
     contador += 2
 else:
-    print("Fin del rango")
+    print("Fin del rango con while 2 en 2")
     
     
