@@ -1,0 +1,1 @@
+frutas =("Naranja", "Platano","Guyaba")
