@@ -8,3 +8,10 @@ print(len(planeta))
 print("Marte" in planeta)
 print("Tierra" in planeta)
 
+#agregar elementos 
+planeta.add("Tierra")
+print(planeta)
+
+#no se peude agregar elementos Duplcados
+planeta.add("Venus")
+print(planeta)
