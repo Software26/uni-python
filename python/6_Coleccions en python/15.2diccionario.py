@@ -7,4 +7,8 @@ diccionario = {
 
 # comprobar existencia de algun elemento
 print('IDE' in diccionario)
-print()
+print(diccionario)
+
+for termino, valor in diccionario.items():
+    print(termino, valor)
+    
