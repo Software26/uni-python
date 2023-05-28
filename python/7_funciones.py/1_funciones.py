@@ -1,5 +1,7 @@
 def mifuncion(nombre,apellido):
     print("Saludos desde mi funcion")
-    print("Nombre:{}, Apellido: {apellido}")
+    nombre = str(input("Digite un su nombre: "))
+    apellido = str(input("Digite su apellido: "))
+    print(f"Nombre:{nombre}, Apellido: {apellido}")
     
-mifuncion("Juan","Perez")
+mifuncion("a","b")
